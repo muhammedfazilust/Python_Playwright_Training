@@ -1,5 +1,4 @@
-101,Rahul,Developer,50000
+101,Rahul,Python Developer,50000
 102,Anjali,Tester,45000
-103,Jiya,Developer,63000
-104,Trenser,DevOps,38000
-105,Goku,Tester,48000
+103,John,Developer,63000
+104,Priya,DevOps,38000
